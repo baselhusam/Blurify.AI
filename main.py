@@ -17,7 +17,7 @@ def load_lottieurl(url: str):
 
 
 # Set the page layout to wide
-st.set_page_config(page_title = "Blurify.AI", page_icon = "🩺")
+st.set_page_config(page_title = "Blurify.AI", page_icon = "💥")
 col1, col2, col3 = st.columns([0.1, 1, 0.1])
 coll, colc, colr = st.columns([0.8, 1.2, 0.8])
 
@@ -51,7 +51,7 @@ with colb:
     
 
     # Select the model with the uploaded image
-    selected_model = st.selectbox("Select a model", ("YOLOv8", "HaarCascade Classifier"))
+    selected_model = st.selectbox("Select a model", ("YOLO v8", "HaarCascade Classifier"))
     st.markdown("<br>", unsafe_allow_html=True)
     upd_img = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
@@ -83,11 +83,11 @@ if upd_img is not None:
     if blur:
             
         # Yolo detection
-        if selected_model == "YOLOv8":
+        if selected_model == "YOLO v8":
 
             weights_path = ".\\pretrained_models\\YOLO_Model.pt"
             model = YOLO('yolov8n.pt')
-            model = YOLO("D:\\Projects\\ProgressSoft_Assignment\\Problem1\\pretrained_models\\YOLO_Model.pt")
+            model = YOLO(weights_path)
 
             results = model(image_path)
             img = cv2.imread(image_path)
