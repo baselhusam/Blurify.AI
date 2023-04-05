@@ -6,6 +6,7 @@
 
 <h4 align="left">A web-based application that detects and blurs faces in images, built using **YOLO v8** and **HaarCascade Classifier** detection algorithms with Streamlit.</h4>
 
+![Blurify.AI web-based application UI](https://github.com/baselhusam/Blurify.AI/blob/main/imgs/web-app_UI.png)
 <p align="center">
   <a href="https://github.com/baselhusam/Blurify.AI">View Source</a>
 </p>
@@ -69,6 +70,7 @@ streamlit run main.py
 
 <p align="justify">That's it! Your image is now blurred and ready to use.</p>
 
+![Blurify.AI Example of Use](https://github.com/baselhusam/Blurify.AI/blob/main/imgs/web-app_ex1.png)
 <br>
 
 <h2 align="left">📝 License</h2>
