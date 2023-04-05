@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/wW6U2T0.png" width="250" height="250"/>
-</div>
 
 <h1 align="center">👤 Blurify.AI</h1>
 
