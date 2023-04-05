@@ -26,6 +26,7 @@ Streamlit web framework. The YOLO v8 algorithm is a state-of-the-art object dete
 accurate and efficient. Streamlit is a popular web framework that allows you to quickly build and deploy 
 web-based applications using Python. The project was trained on a dataset of faces to detect and blur 
 faces in images uploaded by the user. </p>
+
 Ckech the GitHub repo for building the models, evaluations, etc. [the link](https://github.com/baselhusam/Face-Blurring) 
 
 <br>
