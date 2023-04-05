@@ -27,7 +27,7 @@ accurate and efficient. Streamlit is a popular web framework that allows you to 
 web-based applications using Python. The project was trained on a dataset of faces to detect and blur 
 faces in images uploaded by the user. 
 <br> 
-Ckech the [GitHub repo](https://github.com/baselhusam/Face-Blurring) for building the models, evaluations, etc. </p>
+Ckech the GitHub repo for building the models, evaluations, etc. [the link](https://github.com/baselhusam/Face-Blurring) </p>
 
 <br>
 
