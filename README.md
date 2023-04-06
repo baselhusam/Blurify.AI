@@ -3,10 +3,13 @@
 
 #### A web-based application that detects and blurs faces in images, built using **YOLO v8** and **HaarCascade Classifier** detection algorithms with Streamlit.
 
+
+
 ![Blurify.AI web-based application UI](https://github.com/baselhusam/Blurify.AI/blob/main/imgs/web-app_UI.png)
 <p align="center">
   <a href="https://github.com/baselhusam/Blurify.AI">View Source</a>
 </p>
+
 
 ---
 
