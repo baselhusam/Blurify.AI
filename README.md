@@ -72,8 +72,9 @@ streamlit run main.py
 
 <p align="justify">That's it! Your image is now blurred and ready to use.</p>
 
-![Blurify.AI Example of Use](https://github.com/baselhusam/Blurify.AI/blob/main/imgs/web-app_ex1.png)
-<br>
+https://user-images.githubusercontent.com/90718297/230377926-1a40d38a-9552-4fb2-9b24-e68c3db87181.mp4
+
+<br> 
 
 <h2 align="left">📝 License</h2>
 <p align="justify">This project is licensed under the MIT License - see the 
